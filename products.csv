@@ -1,6 +1,2 @@
 id,title,description,link,image_link,availability,price,brand,condition,product_type
-101,Cozy Sweater,Comfortable and warm sweater,http://example.com/products/101,http://example.com/images/101.jpg,in stock,25.99 USD,BrandA,new,Apparel > Clothing > Sweaters
-102,Blue Jeans,Stylish slim-fit jeans,http://example.com/products/102,http://example.com/images/102.jpg,in stock,45.50 USD,BrandB,new,Apparel > Clothing > Jeans
-103,Running Shoes,Lightweight running shoes,http://example.com/products/103,http://example.com/images/103.jpg,preorder,75.00 USD,BrandC,new,Sports > Footwear > Running Shoes
-104,Winter Coat,Thermal-insulated coat,http://example.com/products/104,http://example.com/images/104.jpg,in stock,120.00 USD,BrandD,new,Apparel > Clothing > Coats
-105,Leather Wallet,Genuine leather wallet,http://example.com/products/105,http://example.com/images/105.jpg,out of stock,30.00 USD,BrandE,new,Accessories > Wallets
+200,airflow dag,Comfortable and warm sweater,http://example.com/products/200,http://example.com/images/101.jpg,in stock,205.99 USD,BrandA,new,Apparel > Clothing > Sweaters
